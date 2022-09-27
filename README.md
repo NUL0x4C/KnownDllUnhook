@@ -23,7 +23,7 @@
 
 <br>
 
-### Note that this idea isnt mine, its my implemantation only ...
+### Note that this idea isnt mine, its my implementation only ...
 ### Based On:
   - https://github.com/rad9800/WTSRM
   
