@@ -1,6 +1,6 @@
 /*
 	ORCA   9/24/2022
-	- Program That Irretate Through All The Loaded Dlls
+	- Program That loops Through All The Loaded Dlls
 	- Check If Found In \KnownDlls\ Dir
 	- Replace it's .txt Section 
 */
